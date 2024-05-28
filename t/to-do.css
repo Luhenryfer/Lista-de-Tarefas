@@ -1,0 +1,14 @@
+.container {
+    width: 600px;
+    height: 100px;
+    margin: auto;
+    margin-top: 50px;
+  }
+
+  body {
+    background-image: url(./img/WhatsApp\ Image\ 2024-05-24\ at\ 11.20.04.jpeg);
+  }
+
+  img {
+    mix-blend-mode: multiply;
+  }
